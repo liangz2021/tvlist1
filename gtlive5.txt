@@ -1,4 +1,4 @@
-?凤凰卫视,http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f#http://213.176.62.222:8006/lbtv/live/kwzq1rse/ts6205f2/index.m3u8
+凤凰卫视,http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f#http://213.176.62.222:8006/lbtv/live/kwzq1rse/ts6205f2/index.m3u8
 凤凰资讯,http://80.245.105.48:8006/hkc/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#http://47.240.60.73/xaors/mlxy.php?channel=fbded000af54f1a4ee0847712298893b#http://zhu2.crtv.zstv.top/atv_119.php?id=61ea04402fef3b5b882cbbfff520f88f
 凤凰香港,http://47.240.60.73/xaors/mlxy.php?channel=44ca88e2d2844038cdb169e25ac5fbbf
 香港KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
